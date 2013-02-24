@@ -6,8 +6,7 @@ when you enter extension's keyword 'gs' (type 'gs' and press tab), you can start
 
 ![screenshot](https://github.com/ragingwind/gist-quicksearch/raw/master/screenshot.png)
 
-# INSTALLTION
-[chrome web store](https://chrome.google.com/webstore/detail/lonigeolophogplgkphcecbkaabmflnm/publish-accepted)
+you can install extension at [chrome web store](https://chrome.google.com/webstore/detail/gist-quick-search/lonigeolophogplgkphcecbkaabmflnm/related)
 
 ## LICENCE - MIT
 Copyright (c) 2013 @ragingwind
